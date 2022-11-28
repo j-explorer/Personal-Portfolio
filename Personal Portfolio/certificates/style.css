@@ -1,0 +1,45 @@
+body{
+  display:flex;
+  flex-direction: row;
+}
+
+img{
+  display:flex;
+  flex-direction: column;
+  margin-top:5%;
+  margin-left: 8%;
+}
+
+#syllabus{
+  position: relative;
+  font-family: monospace;
+  font-size: 25px;
+  margin-left:13%;
+  margin-top:3%;
+  padding:18%;
+}
+
+#js_syllabus, #js_ws_syllabus, #d_ws_syllabus, #cd_line_syllabus {
+  position: absolute;
+  margin-left: -50%;
+}
+
+#js_syllabus{
+  margin-top:-45%;
+}
+
+#js_ws_syllabus{
+  margin-top: 65%;
+}
+
+#d_ws_syllabus{
+  margin-top: 160%;
+}
+
+#cd_line_syllabus{
+  margin-top: 250%;
+}
+
+li{
+  line-height: 3rem;
+}

@@ -1,0 +1,234 @@
+
+h1{
+  font-family: Gill Sans;
+  font-weight: 100;
+  text-align: center;
+  font-size: 55px;
+  margin-top: 38%;
+ 
+}
+
+h2{
+  font-family: Arial;
+  font-weight:400;
+  font-size: 50px;
+  margin-top: -39%;
+  color: white;
+}
+
+img{
+width: 102%;
+margin-top:-1%;
+margin-left:-1%;
+}
+
+h3 {
+  font-family: Gill Sans;
+  font-weight: 100;
+  font-size: 30px;
+  margin-left: 10%;
+  margin-top: 10%;
+}
+
+#websites {
+  margin-left: 10%;
+}
+
+.divider {
+  border-bottom: 3px solid #888989;
+  max-width: 40%;
+  margin-top: -1%;
+  margin-left: 5%;
+}
+
+.section_1 {
+  position:relative;
+  display: flex; 
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.website_image{
+  position:absolute;
+  margin-top: 3%;
+  margin-left:-52%;
+  height:218px;
+  width: 285px;
+}
+
+.website_image:hover{
+  height:248px;
+  width: 315px;
+}
+
+#website_1_p {
+  font-family: Trebuchet MS;
+  font-size: 20px;
+  position: absolute;
+  border: 3px solid white;
+  padding:2%;
+  width: 50%;
+  margin-left:37%;
+  margin-top:3%;
+  flex:0.52;
+}
+
+
+#section_3{
+  position:relative;
+  }
+
+#design{
+  position: relative;
+  padding: 19.5%;
+  width: 20%;
+  margin-left: 40%;
+  margin-top: -42%;
+  margin-bottom: 3%;
+  border: 3px solid white;
+  }
+
+.design-description{
+  font-family: Trebuchet MS;
+  font-size: 20px;
+}
+
+#design_heading{
+  font-family: Gill Sans;
+  font-weight: 100;
+  font-size: 30px;
+  margin-top: -80%;
+}
+
+#works{
+ display:flex;
+ flex-direction: row;
+ position: absolute;
+ margin-left: -23%;
+ margin-top: 22%;
+ 
+}
+
+#f_a_divider {
+  border-bottom: 1px solid #888989;
+  max-width: 21%;
+  margin-top: -2.5%;
+}
+
+li{
+  line-height: 2rem;
+}
+#f_a_list{
+  margin-left: -5%;
+}
+
+#b_divider {
+  border-bottom: 1px solid #888989;
+  max-width: 9%;
+  margin-top: -2.5%;
+}
+
+#first_book, #second_book{
+  margin-top: 1%;
+}
+
+#second_book{
+  font-weight: 100;
+}
+
+#next_section{
+  background-color: black;
+  color:white;
+  padding:0.5%;
+  margin-top:3%;
+}
+
+#next{
+  margin-left:3%;
+}
+
+#next_title{
+  font-family: Gill Sans;
+  font-weight: 100;
+  font-size: 30px;
+}
+
+#tools_section{
+  margin-top:-62.5%;
+  margin-left: -15%;
+}
+
+#t_divider {
+  border-bottom: 1px solid #888989;
+  max-width: 50%;
+  margin-top: -15%;
+}
+
+#t_u_list{
+ margin-left: -25%;
+}
+
+
+
+#education {
+  margin-top:30%;
+  margin-left: 10%;
+}
+
+#progress {
+  position: relative;
+  padding:9%;
+  width: 5%;
+  margin-top: 3%;
+  margin-left: 10%;
+  margin-bottom: 3%;
+  background-color: black;
+}
+
+.progress_title{
+  font-family: Gill Sans;
+  font-weight: 100;
+  font-size: 30px;
+  color: white;
+  
+}
+
+#progress_p_div{
+  position: absolute;
+  margin-left:-35%;
+  margin-top: 8%;
+}
+
+#currently_completing{
+  margin-top: -48%;
+  }
+
+.progress_p{
+  font-family: monospace;
+  font-size: 20px;
+  color: white;
+  margin-top: -5%;
+ 
+}
+
+#certificates{
+  width:18%;
+  padding:6%;
+  margin-top: 3%;
+  margin-left: 10%;
+  background-color: rgb(103, 116, 165);
+  border: 3px solid black;
+ 
+}
+
+#certificates_title{
+  color: white;
+  font-family:monospace;
+  font-size: 30px;
+  margin-left: -70px;
+  padding:0%;
+  
+}
+
+
+
